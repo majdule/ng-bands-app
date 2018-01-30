@@ -8,4 +8,5 @@ I've built this application for the purpose of learning AngularJS.
 
 ## Demo
 
+You can see and test this app on this link:
 https://majdule.github.io/ng-bands-app/
